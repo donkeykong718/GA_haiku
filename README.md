@@ -2,11 +2,11 @@
 
 # Haiku
 
-Practice working with git!
+Practice working with Git!
 
 ## Prerequisites
 
-- Familiarity with git
+- Familiarity with Git
 
 ## Instructions
 
@@ -28,7 +28,6 @@ the next morning by 9:00am.
 
 Work through the following instructions:
 
-1. Open the current directory in your text editor (`code .` or `atom .`).
 1. Create a text file named `your_gh_username.txt`, e.g. `nickolds.txt`.
 1. Write a haiku on a topic of your choice, commit your changes, and push those
    changes with `git push`.
