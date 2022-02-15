@@ -4,10 +4,6 @@
 
 Practice working with Git!
 
-## Prerequisites
-
-- Familiarity with Git
-
 ## Instructions
 
 You do not have the necessary rights to update this repository. Therefore, you
@@ -33,8 +29,7 @@ Work through the following instructions:
    changes with `git push`.
 1. Make one more commit **_that removes only the content of_** your `.txt` file
    (**do not delete the file**).
-1. Undo the commit you just made. The thing to Google is "undo last commit".
-   (Hint: look for `git revert`)
+1. Undo the commit you just made using [`git revert`](https://git-scm.com/docs/git-revert)
 1. Push the changes again to your remote. (Your `remote`, named `origin` by
    default, should point to your fork of this repository.)
 1. You should still see your original haiku on GitHub after pushing.
