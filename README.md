@@ -11,8 +11,25 @@ must fork it, make changes to your fork, and then send a pull request to the
 owners of this repository:
 
 1. Fork and clone this repository.
-1. Change into the new directory.
-1. Fulfill the listed requirements.
+
+The fork button can be found in the top right. Once forked you should be on the page `https://git.generalassemb.ly/<your-username>/haiku` e.g. `https://git.generalassemb.ly/samzanca/haiku`
+
+To clone, press the big green "code" button and copy the https url.
+
+In your terminal, clone the project using this command
+
+```
+git clone https://git.generalassemb.ly/<your-username/haiku.git
+```
+
+3. Change into the new directory.
+4. Fulfill the listed requirements.
+
+5. Once you fulfilled the requirements, you can push your changes to github with
+
+```
+git push -u origin main
+```
 
 When you have fulfilled the requirements below, make a pull request on this
 repository to turn in your work.
